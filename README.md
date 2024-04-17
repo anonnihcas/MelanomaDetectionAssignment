@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma Detection Assignment
 > This is the repo for Melanoma Detection Case Study done by Sachin Athreya
 
 
